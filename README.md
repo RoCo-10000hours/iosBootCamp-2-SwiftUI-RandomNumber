@@ -2,4 +2,4 @@
 
 
 team 3 (4인)
-project.
+project..
